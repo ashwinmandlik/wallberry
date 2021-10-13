@@ -11,7 +11,7 @@ I have used two recycler view to display the fecthed wallpapers. The first is ho
 
 ## Screenshots
 
-![Screenshot - 1]()
+![Screenshot - 1](https://user-images.githubusercontent.com/62784600/137135929-b57e863f-3340-44dd-a043-466fa66657bf.png)
 ![Screenshot - 2]()
 ![Screenshot - 3]()
 ![Screenshot - 4]()
